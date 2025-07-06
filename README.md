@@ -15,6 +15,12 @@ A simple and flexible One-Time Password (OTP) generator written in Python. Suppo
 - Randomly shuffles alphanumeric characters for better security
 
 ---
+## 📦 Installation
+
+You can install the `make_otp` package using pip:
+
+```bash
+pip install make_otp
 
 ## 🧠 How It Works
 
